@@ -1,4 +1,4 @@
 # Space Candy
-Spacy Candy is a Candy Crush style game created using Allegro library.
+Spacy Candy is a Candy Crush style game created using C and Allegro library.
 
-![GameImage](documentacao/assets/preview.png)
+<img src="documentacao/assets/preview.png" alt="GameImage" width="300"/>
